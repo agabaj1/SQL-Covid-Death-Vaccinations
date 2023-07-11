@@ -1,3 +1,3 @@
 # SQL-Covid-Death-Vaccinations
 
-Link to Dataset: https://ourworldindata.org/covid-deaths
+Dataset: [COVID deaths and vaccinations](https://mystery.knightlab.com/)
